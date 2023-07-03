@@ -521,7 +521,8 @@ class Temperature(BaseFuzzy) :
     plt.show()
 
 os.system("cls")
-print(f"{'PROGRAM BASEFUZZY':^40}")
+print(f"{'BASEFUZZY':^40}")
+print(f"{'Sulistiyono_201011401835':^40}")
 print(f"{'-'*40:^40}")
 speed = input('Speed : ') 
 pressure = input('Pressure : ') 
